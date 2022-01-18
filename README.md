@@ -11,7 +11,7 @@ In this project we will analyses the nifty50 dataset of 2021 to see which are th
  ## &#128640; ONGC	82.86<br>
  ## &#128640; ADANIPORTS	79.22<br>
  ## &#128640; WIPRO 77.51 <br>
- ![](img/a.PNG?raw=true)
+ ![](img/a.png?raw=true)
  
  # Top 10 Lossers of 20210 are: <br>
  ## &#x1F526; HEROMOTOCO	-16.02<br>
