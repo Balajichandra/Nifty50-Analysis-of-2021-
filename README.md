@@ -24,7 +24,7 @@ In this project we will analyses the nifty50 dataset of 2021 to see which are th
  ## &#x1F526; POWERGRID	3.69<br>
  ## &#x1F526; KOTAKBANK	5.24<br>
  ## &#x1F526; INDUSINDBK 5.25<br>
- ![](img/b.PNG?raw=true)
+ ![](img/b.png?raw=true)
 
  # Top 5 ganier companies at month are:<br>
  ## &#128204; CIPLA	6.34<br>
@@ -32,7 +32,7 @@ In this project we will analyses the nifty50 dataset of 2021 to see which are th
  ## &#128204; ASIANPAINT 5.66<br>
  ## &#128204; DRREDDY	1.80<br>
  ## &#128204; NESTLEIND	0.17<br> 
- ![](img/c.PNG?raw=true)
+ ![](img/c.png?raw=true)
 
  # Top 5 looser companies at month are:<br>
  ## &#127993; ADANIPORTS -4.65<br>
@@ -40,10 +40,10 @@ In this project we will analyses the nifty50 dataset of 2021 to see which are th
  ## &#127993; BAJAJ-AUTO -12.05<br>
  ## &#127993; BAJFINANCE -13.69<br>
  ## &#127993; AXISBANK	-21.49<br>
- ![](img/d.PNG?raw=true)
+ ![](img/d.png?raw=true)
 
  # Volume tarded in each stock
- ![](img/y.PNG?raw=true)
+ ![](img/y.png?raw=true)
 
  # Turn-over in Crores of Stocks
- ![](img/x.PNG?raw=true) 
+ ![](img/x.png?raw=true) 
